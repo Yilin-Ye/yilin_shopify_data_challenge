@@ -1,5 +1,7 @@
 # Shopify Data Challenge
 
+## All the answers to question 1 and 2 are in shipify_data_challenge.ipynb file
+
 ## Question 1
 
 ### Description
